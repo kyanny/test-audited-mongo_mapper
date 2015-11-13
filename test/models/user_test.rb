@@ -18,6 +18,6 @@ class UserTest < ActiveSupport::TestCase
     p user.audits.length
 
     require 'pp'
-    pp user.audits
+    ap user.audits
   end
 end

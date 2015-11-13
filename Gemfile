@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem "audited-mongo_mapper", "~> 4.0"
+gem 'bson_ext'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
